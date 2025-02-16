@@ -1,7 +1,3 @@
-# Gerenciamento de Active Directory com PowerShell
-Claro! Aqui está um exemplo de `README.md` para o seu repositório no GitHub, baseado no script de gerenciamento do Active Directory que você desenvolveu. Ele é profissional, claro e descreve todas as funcionalidades do projeto.
-
----
 
 # Gerenciamento de Active Directory com PowerShell
 
