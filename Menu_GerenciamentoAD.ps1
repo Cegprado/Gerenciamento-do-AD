@@ -15,12 +15,6 @@ function Menu {
         Clear-Host
         Write-Host @"
                                     
-#     # #    # # #    # ###### #####  
-#     # ##   # # ##  ## #      #    # 
-#     # # #  # # # ## # #####  #    # 
-#     # #  # # # #    # #      #    # 
-#     # #   ## # #    # #      #    # 
- #####  #    # # #    # ###### #####  
 "@ -ForegroundColor Blue
 
         Write-Host "=========================================" -ForegroundColor Cyan
