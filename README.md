@@ -108,7 +108,7 @@ Se tiver dúvidas ou sugestões, sinta-se à vontade para entrar em contato:
 
 ## Agradecimentos
 
-- Inspirado em uma publicação de um colega de profissão no LinkedIn.
+- Inspirado em uma publicação de um colega de profissão Daniel Frade no LinkedIn.
 - Adaptado e aprimorado para atender às necessidades da minha empresa.
 
 ---
